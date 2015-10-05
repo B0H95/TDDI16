@@ -1,2 +1,2 @@
 # TDDI16
-Datastrukturer och algoritmer LIU
+For the people
